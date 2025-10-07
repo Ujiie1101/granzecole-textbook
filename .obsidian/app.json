@@ -1,0 +1,12 @@
+{
+  "tabSize": 2,
+  "readableLineLength": true,
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "01_Inbox",
+  "attachmentFolderPath": "03_Extra",
+  "showInlineTitle": false,
+  "promptDelete": false,
+  "defaultViewMode": "preview"
+}

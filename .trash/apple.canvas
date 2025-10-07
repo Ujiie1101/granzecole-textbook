@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"fe59f178c2f12f7f","type":"text","text":"Apple Inc.は1976年4月1日、スティーブ・ジョブズとスティーブ・ウォズニアック、およびロナルド・ウェイン（英語版）の3名により創業された[16][17][注 1]。","x":-220,"y":-200,"width":250,"height":60,"color":"5"},
+		{"id":"7c158d6e1f1aaac7","type":"text","text":"[[スティーブ・ジョブズ]]","x":-206,"y":-132,"width":250,"height":60,"color":"3"},
+		{"id":"4a1aff9a420ea4c7","type":"text","text":"スティーブ・ウォズアニック","x":-206,"y":-72,"width":286,"height":60,"color":"3"},
+		{"id":"af111f307821bc89","type":"text","text":"ロナルド・レイン","x":-206,"y":-12,"width":250,"height":60,"color":"3"},
+		{"id":"0f5220761cfb631f","x":220,"y":-72,"width":115,"height":60,"color":"1","type":"text","text":"Apple Ⅰ"},
+		{"id":"18272fb19d009473","x":-680,"y":-332,"width":400,"height":400,"type":"link","url":"https://www.apple.com/jp/"}
+	],
+	"edges":[
+		{"id":"8c26f7dd5ddd869b","fromNode":"4a1aff9a420ea4c7","fromSide":"right","toNode":"0f5220761cfb631f","toSide":"left","toEnd":"none","label":"開発"}
+	]
+}
