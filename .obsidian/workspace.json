@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Daily/2025-11-10.md",
+                "file": "02_Daily/2025-11-11.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-11-10"
+              "title": "2025-11-11"
             }
           }
         ]
@@ -210,8 +210,9 @@
   },
   "active": "77bfaab110e467d7",
   "lastOpenFiles": [
-    "02_Daily/2025-11-05.md",
     "02_Daily/2025-11-10.md",
+    "02_Daily/2025-11-11.md",
+    "02_Daily/2025-11-05.md",
     "02_Daily/2025-11-04.md",
     "02_Daily/2025-10-29.md",
     "02_Daily/2025-10-26.md",
@@ -235,7 +236,6 @@
     "02_Daily/2025-09-30.md",
     "02_Daily/2025-09-29.md",
     "02_Daily/2025-09-27.md",
-    "09_book/ファスト&スロー.md",
-    "02_Daily/2025-09-27 2.md"
+    "09_book/ファスト&スロー.md"
   ]
 }
