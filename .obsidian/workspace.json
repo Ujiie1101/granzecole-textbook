@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "09_book/現象学の理念.md",
+                "file": "02_Daily/2025-11-19.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "現象学の理念"
+              "title": "2025-11-19"
             }
           }
         ],
@@ -253,8 +253,9 @@
   },
   "active": "00b2a4aec63f1406",
   "lastOpenFiles": [
-    "02_Daily/2025-11-18.md",
     "09_book/現象学の理念.md",
+    "02_Daily/2025-11-19.md",
+    "02_Daily/2025-11-18.md",
     "02_Daily/2025-11-12.md",
     "08_blog/南北戦争と差別といじめ問題を考える.md",
     "02_Daily/2025-11-11.md",
@@ -278,7 +279,6 @@
     "02_Daily/2025-10-07.md",
     "02_Daily/2025-10-01.md",
     "02_Daily/2025-10-03.md",
-    "09_book/嘔吐.md",
-    "09_book/ツァラトゥストラ（上）.md"
+    "09_book/嘔吐.md"
   ]
 }
